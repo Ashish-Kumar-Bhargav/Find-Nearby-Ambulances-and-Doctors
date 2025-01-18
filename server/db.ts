@@ -31,8 +31,7 @@ if (count.count === 0) {
       title: 'City Emergency Response',
       description: 'Available 24/7 for emergency medical transport',
       location: 'AIIMS Delhi',
-      imageUrl:
-        'https://images.unsplash.com/photo-1587745416684-47953f16f02f?w=800',
+      imageUrl: 'https://images.unsplash.com/photo-1612824007550-19997f7a5a10?auto=format&fit=crop&w=800&q=80',
       latitude: 28.5903,
       longitude: 77.2274,
       createdAt: new Date().toISOString(),
@@ -43,8 +42,7 @@ if (count.count === 0) {
       title: 'Max Healthcare Ambulance',
       description: 'Fast and reliable ambulance service',
       location: 'Max Super Specialty Hospital, Saket',
-      imageUrl:
-        'https://images.unsplash.com/photo-1587745950975-c24e0dbf688f?w=800',
+      imageUrl: 'https://images.unsplash.com/photo-1587745950332-c80d36cec6f9?auto=format&fit=crop&w=800&q=80',
       latitude: 28.5256,
       longitude: 77.2232,
       createdAt: new Date().toISOString(),
@@ -55,8 +53,7 @@ if (count.count === 0) {
       title: 'Fortis Ambulance Service',
       description: 'Emergency medical transport at your service',
       location: 'Fortis Memorial Research Institute, Gurugram',
-      imageUrl:
-        'https://images.unsplash.com/photo-1593534022565-5f93bfa45792?w=800',
+      imageUrl: 'https://images.unsplash.com/photo-1587745952965-f3421aa56db2?auto=format&fit=crop&w=800&q=80',
       latitude: 28.4510,
       longitude: 77.0729,
       createdAt: new Date().toISOString(),
@@ -67,8 +64,7 @@ if (count.count === 0) {
       title: 'Apollo Ambulance',
       description: '24/7 ambulance service for emergencies',
       location: 'Apollo Hospital, Delhi',
-      imageUrl:
-        'https://images.unsplash.com/photo-1627732500745-203b7d2b3e39?w=800',
+      imageUrl: 'https://images.unsplash.com/photo-1587745952944-f55d3f7f6ad0?auto=format&fit=crop&w=800&q=80',
       latitude: 28.6066,
       longitude: 77.2185,
       createdAt: new Date().toISOString(),
@@ -79,8 +75,7 @@ if (count.count === 0) {
       title: 'Gurgaon Ambulance Services',
       description: 'Your local ambulance service',
       location: 'Gurgaon',
-      imageUrl:
-        'https://images.unsplash.com/photo-1587745950975-c24e0dbf688f?w=800',
+      imageUrl: 'https://images.unsplash.com/photo-1583912267550-d980eeef6dbe?auto=format&fit=crop&w=800&q=80',
       latitude: 28.4595,
       longitude: 77.0266,
       createdAt: new Date().toISOString(),
@@ -91,8 +86,7 @@ if (count.count === 0) {
       title: 'Bangalore Ambulance Service',
       description: 'Quick response for medical emergencies',
       location: 'Bangalore',
-      imageUrl:
-        'https://images.unsplash.com/photo-1593568092340-e9c7b53dcbef?w=800',
+      imageUrl: 'https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&w=800&q=80',
       latitude: 12.9716,
       longitude: 77.5946,
       createdAt: new Date().toISOString(),
@@ -103,8 +97,7 @@ if (count.count === 0) {
       title: 'Health Care Ambulance',
       description: 'Dedicated to saving lives with swift transport',
       location: 'Chennai',
-      imageUrl:
-        'https://images.unsplash.com/photo-1591156966318-689c4c10005f?w=800',
+      imageUrl: 'https://images.unsplash.com/photo-1587745950332-c80d36cec6f9?auto=format&fit=crop&w=800&q=80',
       latitude: 13.0827,
       longitude: 80.2707,
       createdAt: new Date().toISOString(),
@@ -115,8 +108,7 @@ if (count.count === 0) {
       title: 'Dr. Rajesh Sharma',
       description: 'Emergency Medicine Specialist',
       location: 'AIIMS, Delhi',
-      imageUrl:
-        'https://images.unsplash.com/photo-1593593381863-d4f579e05a4c?w=800',
+      imageUrl: 'https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=800&q=80',
       latitude: 28.5903,
       longitude: 77.2274,
       createdAt: new Date().toISOString(),
@@ -127,8 +119,7 @@ if (count.count === 0) {
       title: 'Dr. Priya Gupta',
       description: 'Pediatric Specialist',
       location: 'Fortis Hospital, Delhi',
-      imageUrl:
-        'https://images.unsplash.com/photo-1537396277462-32e4774f3e52?w=800',
+      imageUrl: 'https://images.unsplash.com/photo-1527613426441-4da17471b66d?auto=format&fit=crop&w=800&q=80',
       latitude: 28.6066,
       longitude: 77.2185,
       createdAt: new Date().toISOString(),
@@ -139,8 +130,7 @@ if (count.count === 0) {
       title: 'Dr. Anil Verma',
       description: 'Cardiologist',
       location: 'Max Hospital, Gurugram',
-      imageUrl:
-        'https://images.unsplash.com/photo-1611703085291-fc1c5bb29af1?w=800',
+      imageUrl: 'https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=800&q=80',
       latitude: 28.5256,
       longitude: 77.2232,
       createdAt: new Date().toISOString(),
@@ -151,8 +141,7 @@ if (count.count === 0) {
       title: 'Dr. Neha Bansal',
       description: 'Orthopedic Surgeon',
       location: 'Apollo Hospital, Delhi',
-      imageUrl:
-        'https://images.unsplash.com/photo-1584124887025-4b5f1480a6c5?w=800',
+      imageUrl: 'https://images.unsplash.com/photo-1594824476967-48c8b964273f?auto=format&fit=crop&w=800&q=80',
       latitude: 28.6066,
       longitude: 77.2185,
       createdAt: new Date().toISOString(),
@@ -163,8 +152,7 @@ if (count.count === 0) {
       title: 'Dr. Vikram Mehta',
       description: 'Neurologist',
       location: 'Narayana Health City, Bangalore',
-      imageUrl:
-        'https://images.unsplash.com/photo-1571053350390-bb5585c1c6b3?w=800',
+      imageUrl: 'https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=800&q=80',
       latitude: 12.9307,
       longitude: 77.7129,
       createdAt: new Date().toISOString(),
@@ -175,8 +163,7 @@ if (count.count === 0) {
       title: 'Dr. Aditi Sharma',
       description: 'Dermatologist',
       location: 'Manipal Hospital, Delhi',
-      imageUrl:
-        'https://images.unsplash.com/photo-1574609499341-e1eb3e42a0ee?w=800',
+      imageUrl: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?auto=format&fit=crop&w=800&q=80',
       latitude: 28.5754,
       longitude: 77.1852,
       createdAt: new Date().toISOString(),
@@ -187,8 +174,7 @@ if (count.count === 0) {
       title: 'Dr. Sunil Chawla',
       description: 'Gastroenterologist',
       location: 'Apollo Hospital, Chennai',
-      imageUrl:
-        'https://images.unsplash.com/photo-1593022423712-1d6e3033917b?w=800',
+      imageUrl: 'https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&w=800&q=80',
       latitude: 13.0827,
       longitude: 80.2707,
       createdAt: new Date().toISOString(),
@@ -199,8 +185,7 @@ if (count.count === 0) {
       title: 'Dr. Neeraj Sethi',
       description: 'Endocrinologist',
       location: 'Fortis Hospital, Noida',
-      imageUrl:
-        'https://images.unsplash.com/photo-1611765336104-659a2dff5a5e?w=800',
+      imageUrl: 'https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=800&q=80',
       latitude: 28.5779,
       longitude: 77.3113,
       createdAt: new Date().toISOString(),
@@ -215,6 +200,5 @@ if (count.count === 0) {
 
   seedData.forEach((service) => insert.run(service));
 }
-
 
 export { db };
